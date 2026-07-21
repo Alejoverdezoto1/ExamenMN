@@ -1,11 +1,3 @@
-"""
-Pregunta 7 - Matriz inversa mediante Gauss-Jordan.
-
-La función inv_matrix se basa en la función gauss_jordan del código
-entregado por el profesor. No se usa numpy.linalg.inv ni scipy.
-Cada columna de A^-1 se obtiene resolviendo A*x=e_j.
-"""
-
 from typing import Sequence
 
 
