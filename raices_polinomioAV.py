@@ -1,10 +1,3 @@
-"""
-Pregunta 4 - Todas las raíces reales del polinomio.
-
-Se usa bisección para localizar raíces y Newton aplicado a f'(x) para
-comprobar raíces múltiples que coinciden con puntos críticos.
-"""
-
 from pathlib import Path
 import math
 
